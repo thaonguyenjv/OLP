@@ -1,0 +1,3 @@
+﻿  DistinctNumbers.cpp
+D:\Source\C(7,32): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  DistinctNumbers.vcxproj -> D:\Source\C#\Exercise\OLP\DistinctNumbers\x64\Debug\DistinctNumbers.exe
