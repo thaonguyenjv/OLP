@@ -1,0 +1,3 @@
+﻿  ChonXeDap.cpp
+D:\Source\C(11,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ChonXeDap.vcxproj -> D:\Source\C#\Exercise\OLP\ChonXeDap\x64\Debug\ChonXeDap.exe
